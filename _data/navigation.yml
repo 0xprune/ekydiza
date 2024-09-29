@@ -1,5 +1,5 @@
 main:
-  - title: "Whoami"
-    url: /whoami/
+  - title: "About"
+    url: /about/
   - title: "writeup"
     url: /writeup/
