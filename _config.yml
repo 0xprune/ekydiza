@@ -73,8 +73,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ekydiza"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
-      url: "ekyjanuarta@outlook.com"
+      icon: "fab fa-fw fa-mail"
+      url: "mailto:ekyjanuarta@outlook.com"
 
 footer:
   links:
