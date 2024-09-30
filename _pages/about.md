@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 classes: wide
 layout: single
+header:
+  og_image: https://github.com/ekydiza/ekydiza.github.io/blob/master/assets/images/krylia.jpg
 ---
 ![krylia](https://github.com/ekydiza/ekydiza.github.io/blob/master/assets/images/krylia.jpg)
 ## Whoami
