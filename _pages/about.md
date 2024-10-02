@@ -4,9 +4,9 @@ title: "About"
 classes: wide
 layout: single
 header:
-  og_image: https://github.com/ekydiza/ekydiza.github.io/blob/master/assets/images/krylia.jpg
+  og_image: https://raw.githubusercontent.com/ekydiza/ekydiza.github.io/refs/heads/master/assets/images/krylia.jpg
 ---
-![krylia](https://github.com/ekydiza/ekydiza.github.io/blob/master/assets/images/krylia.jpg)
+![krylia](https://raw.githubusercontent.com/ekydiza/ekydiza.github.io/refs/heads/master/assets/images/krylia.jpg)
 ## Whoami
 I’m a final-year **Information Technology** student at **Universitas Bumigora**, with a strong focus on Cyber Security. 
 
