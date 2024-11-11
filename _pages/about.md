@@ -36,7 +36,7 @@ Since almost all of the skills I possess were self-taught, I also have to active
 For brainstorming, amidst my busy schedule of performing application pentest for clients, I work on some machines on HackTheBox and also on TryHackMe.
 
 - [HackTheBox](https://app.hackthebox.com/profile/1767273)
-- [TryHackMe](https://tryhackme.com/p/ekydiza)
+- [TryHackMe](https://tryhackme.com/p/0xprune)
 
 ## Open Source Project
 I contribute to the Open Source world, particularly in the scope of Cybersecurity. Some projects that I have created or documented can be accessed on my [Github](https://github.com/ekydiza).
