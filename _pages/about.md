@@ -21,12 +21,13 @@ I'm also passionate on blockchain and active to contribute on web3 since 2019. B
   (Jan 2019 - Jun 2019)
 
 ## Professional Certification
-- Certified Network Defender (CND)
-- Certified Incident Handler (ECIH)
+- EC-Council Certified Network Defender (CND)
+- EC-Council Certified Incident Handler (ECIH)
 - Certified Network Security Practitioner (CNSP)
 - Alibaba Cloud Associate: Security Associate
 - Certified AppSec Practitioner (CAP)
 - Cybersecurity Awareness Professional Certification (CAPC)
+- BNSP Certificate of Competence: Network Designer
 
 ## Community
 Since almost all of the skills I possess were self-taught, I also have to actively participate in internet forums to continue to grow. Currently, I am active in the [Meta4sec](https://discord.gg/meta4sec) and [Stress Capitals](https://discord.gg/stresscapitals) communities.
@@ -34,7 +35,7 @@ Since almost all of the skills I possess were self-taught, I also have to active
 ## Cybersecurity Playground
 For brainstorming, amidst my busy schedule of performing application pentest for clients, I work on some machines on HackTheBox and also on TryHackMe.
 
-- [HackTheBox](https://app.hackthebox.com/profile/222070)
+- [HackTheBox](https://app.hackthebox.com/profile/1767273)
 - [TryHackMe](https://tryhackme.com/p/ekydiza)
 
 ## Open Source Project
